@@ -3,6 +3,6 @@ for the purpose of training the model. We chose to use a non-temporal model, but
 
 * The repository doesn't contain the data and the python files were not attached due to the sensitive medical information of the patients
   
-The repository 2 file:
+The repository files:
 1. PDF project report - Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation and conclusions.
 2. PPT Presentation report. 
