@@ -2,6 +2,7 @@ This project dealt with the problem of classification of ALS patients from among
 for the purpose of training the model. We chose to use a non-temporal model, but while giving expression to the time dimension, which is significant in this problem. To this end, we decided to generate from the medical records moments that would express the behavior of the features over time, and then enter them into the model as flat features.
 
 * The repository doesn't contain the data and the python files were not attached due to the sensitive medical information of the patients
+  
 The repository 2 file:
 1. PDF project report - Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation and conclusions.
 2. PPT Presentation report. 
