@@ -4,4 +4,4 @@ This project addressed the challenge of identifying ALS patients within the insu
   
 The repository files:
 1. PDF project report - Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation and conclusions.
-2. PPT Presentation report. 
+2. PPT presentation report. 
